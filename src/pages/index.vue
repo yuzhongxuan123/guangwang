@@ -5,7 +5,13 @@ defineOptions({
 </script>
 
 <template>
-  <div>
-    <img h-full w-full src="../assets/bg.png" alt="">
+  <div relative min-h-100vh>
+    <img h-full w-full src="../assets/bg.webp" alt="">
+
+    <div class="email" absolute bottom-10 w-full flex justify-center>
+      <div rd-2 bg-transparent p-2 p-x-4 text-5 style="color: #22C9E3;">
+        Dhurimakhadilkar@icloud.com
+      </div>
+    </div>
   </div>
 </template>
