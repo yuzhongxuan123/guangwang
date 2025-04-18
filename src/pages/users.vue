@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'HiMeet'
+const appName = 'HiMee'
 </script>
 
 <template>
